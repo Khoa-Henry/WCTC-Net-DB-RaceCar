@@ -20,7 +20,7 @@ namespace RaceTrack
             {
                 raceTrack.AnnouncePositions();
             }
-
+            // test
             raceTrack.EndRace();
             raceTrack.AnnounceWinners();
         }
